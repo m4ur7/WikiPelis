@@ -22,12 +22,7 @@ La información se muestra de forma organizada en tarjetas, tablas u otros eleme
 Paginación de Resultados:
 
 Los resultados se dividen en páginas para mejorar la experiencia del usuario. 🌟
-Detalles de Elemento:
 
-Los usuarios pueden ver detalles específicos de una película haciendo clic en la tarjeta correspondiente.
-Filtrado de Información:
-
-Se ha incorporado la capacidad de filtrar la información según ciertos criterios, mejorando la accesibilidad a datos específicos.
 Deploy en GitHub:
 
 El proyecto está disponible en GitHub, y se ha realizado el despliegue para su acceso público.
@@ -35,12 +30,7 @@ Funcionalidades Adicionales
 Consumo de N APIs:
 
 La página puede consumir datos de múltiples APIs para diversificar la información.
-Creación y Consumo de un JSON:
 
-Se puede generar y consumir un archivo JSON para almacenar información localmente.
-Pruebas con Javascript:
-
-Se han implementado funciones de Javascript para validar el correcto funcionamiento de la página.
 
 Créditos y Agradecimientos 🙏
 API Externa (TMDb): Agradecemos a The Movie Database (TMDb) por proporcionar la increíble API que hace posible WikiPelis.
